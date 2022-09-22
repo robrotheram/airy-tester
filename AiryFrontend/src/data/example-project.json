@@ -1,0 +1,21 @@
+{
+    "project_id": "PKGI",
+    "project_name": "Example Project",
+    "test_suits": [
+        {
+            "suit_name": "PKD-123432"
+        },
+        {
+            "suit_name": "PKD-123432"
+        },
+        {
+            "suit_name": "PKD-123432"
+        },
+        {
+            "suit_name": "PKD-123432"
+        },
+        {
+            "suit_name": "PKD-123432"
+        }
+    ]
+}

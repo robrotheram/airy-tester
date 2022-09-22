@@ -1,0 +1,144 @@
+{
+    "suite_id": "",
+    "suite_name": "Example Suit",
+    "test_type": "JUNIT",
+    "tests": [
+        {
+            "test_id": "438246e145",
+            "test_name": "testMain",
+            "file_name": "com.example.javamavenjunithelloworld.HelloAppTest",
+            "status": "Success",
+            "message": "",
+            "time": "0.691"
+        },
+        {
+            "test_id": "07ec2483ec",
+            "test_name": "classInstanceForCodeCoverageTest",
+            "file_name": "com.example.javamavenjunithelloworld.HelloAppTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "5695fe0acd",
+            "test_name": "testBogusArgument",
+            "file_name": "com.example.javamavenjunithelloworld.HelloAppTest",
+            "status": "Success",
+            "message": "",
+            "time": "0.039"
+        },
+        {
+            "test_id": "4cd242dcb5",
+            "test_name": "testDefaultArgument",
+            "file_name": "com.example.javamavenjunithelloworld.HelloAppTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "58c60b49b4",
+            "test_name": "testTooHighArgument",
+            "file_name": "com.example.javamavenjunithelloworld.HelloAppTest",
+            "status": "Success",
+            "message": "",
+            "time": "0.001"
+        },
+        {
+            "test_id": "169aa9d9a2",
+            "test_name": "testIllegalArgumentForHelloNegative",
+            "file_name": "com.example.javamavenjunithelloworld.HelloTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "3050c73825",
+            "test_name": "testSayHello",
+            "file_name": "com.example.javamavenjunithelloworld.HelloTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "ceca9359b1",
+            "test_name": "testSayHelloAFewTimes",
+            "file_name": "com.example.javamavenjunithelloworld.HelloTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "c52a5a1942",
+            "test_name": "testIllegalArgumentForHelloTooMuch",
+            "file_name": "com.example.javamavenjunithelloworld.HelloTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        },
+        {
+            "test_id": "9351ab3ff3",
+            "test_name": "testFaild",
+            "file_name": "com.example.javamavenjunithelloworld.HelloWithTest",
+            "status": "Skipped",
+            "message": "for demonstration purposes",
+            "time": "0"
+        },
+        {
+            "test_id": "386018e07d",
+            "test_name": "testSikp",
+            "file_name": "com.example.javamavenjunithelloworld.HelloWithTest",
+            "status": "Skipped",
+            "message": "for demonstration purposes",
+            "time": "0"
+        },
+        {
+            "test_id": "1be31af24e",
+            "test_name": "testSucess",
+            "file_name": "com.example.javamavenjunithelloworld.HelloWithTest",
+            "status": "Success",
+            "message": "",
+            "time": "0"
+        }
+    ],
+    "coverage": [
+        {
+            "type": "INSTRUCTION",
+            "missed": "4",
+            "covered": "92"
+        },
+        {
+            "type": "BRANCH",
+            "missed": "0",
+            "covered": "8"
+        },
+        {
+            "type": "LINE",
+            "missed": "2",
+            "covered": "27"
+        },
+        {
+            "type": "COMPLEXITY",
+            "missed": "0",
+            "covered": "10"
+        },
+        {
+            "type": "METHOD",
+            "missed": "0",
+            "covered": "6"
+        },
+        {
+            "type": "CLASS",
+            "missed": "0",
+            "covered": "2"
+        }
+    ],
+    "environment": {
+        "os_name": "Pop!_OS 22.04 LTS",
+        "os_version": "22.04",
+        "architecture": "amd64",
+        "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+        "timezome": "Europe/London",
+        "runtime": "java",
+        "runtime_version": "17.0.1+12"
+    }
+}
